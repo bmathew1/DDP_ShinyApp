@@ -1,5 +1,5 @@
 #Assignment
-#Formula from http://www.1728.org/loanform.htm
+
 computePayment <- function(pv, rate, years) {
     per <- years * 12
     #     payment <- (rate + (rate / (((1+rate)^per) - 1) )) * pv
